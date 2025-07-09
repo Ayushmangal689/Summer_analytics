@@ -16,5 +16,6 @@ Bokeh plot,
 Panel.
 
 this image below contains full architecture of what all models i have made and what all features from the given dataset were used in that model.
-![Full architecture _ Mermaid Chart-2025-07-09-180013](https://github.com/user-attachments/assets/4925edad-a5eb-45ae-88a7-4f6c59966d9d)
+![Untitled diagram _ Mermaid Chart-2025-07-09-180405](https://github.com/user-attachments/assets/6be28a7f-8bde-432e-89e2-186b39fce349)
+
 
