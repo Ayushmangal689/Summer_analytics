@@ -5,11 +5,11 @@ It simulates a streaming environment, applies logistic pricing logic, and visual
 The goal is to explore demand-based pricing strategies for smarter urban parking.
 
 # Tech stacks
-python
-Numpy
-Pandas
-Pathway
-Bokeh plot
-Panel
+python,
+Numpy,
+Pandas,
+Pathway,
+Bokeh plot,
+Panel.
 
 
